@@ -1,4 +1,4 @@
-Hi I'm Nitai Shavit
+I'm Nitai Shavit
 Currently I'm a physics & math student at Huji
 but aswell im intrested in coding and building Projects
 I know C#, Java, Python All to OOP level
