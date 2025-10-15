@@ -1,7 +1,9 @@
 ### Hi, I'm Nitai Shavit
 I'm a Physics & Mathematics graduate from the Hebrew University of Jerusalem (B.Sc. 2025) and currently pursuing an M.Sc. in Physics at Ludwig-Maximilians-Universität Munich (2025–2027, expected).
 
-My interests lie at the intersection of **physics, mathematics, and programming** — particularly in **data analysis, simulation, and automation** for research and technology applications.
+My interests lie at the intersection of **physics, mathematics, and programming** — particularly in **data analysis, simulation, and automation** for research and technology applications and also intrest in Quantum Computing.
+
+On my free time I also like to work on mini projects such as game or menial automation.
 
 #### Technical Experience
 - **Languages:** Python, C#, Java, MATLAB, JavaScript, SQL  
